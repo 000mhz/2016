@@ -1,5 +1,0 @@
-> Illuminate\Foundation\ComposerScripts::postUpdate
-> php artisan optimize
-Generating optimized class loader
-> php artisan key:generate
-Application key [base64:CovHLAx6/PyM/q6wLw3OJSsw1YE4Ms4a+69s6t/xnlM=] set successfully.
